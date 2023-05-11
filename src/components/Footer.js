@@ -13,7 +13,7 @@ export class Footer extends PureComponent {
         <a href = "https://www.linkedin.com/in/shermeenu6/"><LinkedInIcon/></a>
            
         </div>
-        <p>&copy; 2023 shermeen.com</p>
+        <p>&copy; 2023 Shermeen Ulfat</p>
       </div>
     )
   }
